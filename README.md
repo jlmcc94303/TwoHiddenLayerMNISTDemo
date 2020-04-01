@@ -9,4 +9,4 @@ A Two Hidden Layer MNIST Network Tutorial for use with *Deep Learning*, by J. L.
 The notebook is based on 'Tensorflow quickstart for beginners' 
 by The Tensorflow Authors and adapted by J. McClelland.
 
-To run the notebook, simply click on the filename to open the file, the click the 'Open in Colab' button at the top of the file.  From there, you can expand the hidden cells to view the notbook, or select 'Runtime -> Run All' to run the notebook.
+To run the notebook, simply click on the filename to open the file, then click the 'Open in Colab' button at the top of the file.  From there, you can expand the hidden cells to view the notbook, or select 'Runtime -> Run All' to run the notebook.
