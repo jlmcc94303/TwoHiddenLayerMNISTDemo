@@ -9,3 +9,5 @@ To appear in M. Kahana & A. Wagner (Eds), *Oxford Handbook of Human Memory*, 202
 
 Based on 'Tensorflow quickstart for beginners' 
 by The Tensorflow Authors. Adapted by J. McClelland.
+
+To run the notebook, simply click on the filename to open the file, the click the 'run in Colab' button at the top of the file.
